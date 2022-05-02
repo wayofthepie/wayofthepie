@@ -1,5 +1,5 @@
 # Recent Posts
-See older posts @ <https://blog.wayofthepie.dev>.
+See more posts @ <https://blog.wayofthepie.dev>.
 
 <!--START_SECTION:feed-->
 ...
