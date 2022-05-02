@@ -12,3 +12,4 @@ jobs:
         with:
           feed-url: https://blog.wayofthepie.dev/rss.xml
           readme-section: feed
+          path: .github/README.md
