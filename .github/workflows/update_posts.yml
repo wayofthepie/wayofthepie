@@ -10,5 +10,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://blog.wayofthepie.dev/feed.xml
+          feed-url: https://blog.wayofthepie.dev/rss.xml
           readme-section: feed
